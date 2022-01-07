@@ -8,7 +8,7 @@
     #c850c0 46%,
     #ffcc70 100%
   );
-  font-family: 'Luxurious Roman', cursive;
+  font-family: "Luxurious Roman", cursive;
   color: white;
   font-size: 40px;
   border-radius: 50px;
@@ -29,7 +29,7 @@ h1 {
 }
 h2 {
   text-align: center;
-  font-family: 'Luxurious Roman', cursive;
+  font-family: "Luxurious Roman", cursive;
   font-size: 40px;
   margin-bottom: 0 auto;
   margin-top: 0 auto;
@@ -38,14 +38,14 @@ h2 {
 
 h3 {
   text-align: center;
-  font-family: 'Luxurious Roman', cursive;
+  font-family: "Luxurious Roman", cursive;
   font-size: 40px;
   line-height: 10px;
 }
 
 p {
   text-align: center;
-  font-family: 'Luxurious Roman', cursive;
+  font-family: "Luxurious Roman", cursive;
   font-size: 20px;
   padding: 0px;
   margin-bottom: 10px;
@@ -62,8 +62,8 @@ ul {
   text-align: center;
   margin: 0 auto;
   padding: 0px;
-  font-family: 'Luxurious Roman', cursive;
-  font-size: 15px;
+  font-family: "Luxurious Roman", cursive;
+  font-size: 20px;
   padding: 0px;
   margin-bottom: 10px;
 }
@@ -72,8 +72,8 @@ ol {
   text-align: center;
   margin: 0 auto;
   padding: 0px;
-  font-family: 'Luxurious Roman', cursive;
-  font-size: 15px;
+  font-family: "Luxurious Roman", cursive;
+  font-size: 20px;
   padding: 0px;
   margin-bottom: 10px;
 }
@@ -88,9 +88,22 @@ footer {
     #c850c0 46%,
     #ffcc70 100%
   );
-  font-family: 'Luxurious Roman', cursive;
+  font-family: "Luxurious Roman", cursive;
   color: white;
   font-size: 20px;
   border-radius: 50px;
   margin-bottom: 20px;
+}
+
+a:link {
+  color: #740f74;
+}
+a:visited {
+  color: #1f0122;
+}
+a:hover {
+  color: #ff33b1;
+}
+a:active {
+  color: #247bfd;
 }

@@ -10,7 +10,7 @@
   );
   font-family: 'Luxurious Roman', cursive;
   color: white;
-  font-size: 40px;https://github.com/MonkiiLuv/monkii/blob/main/src/stylesheet.css
+  font-size: 40px;
   border-radius: 50px;
   margin-bottom: 20px;
 }
@@ -46,7 +46,7 @@ h3 {
 p {
   text-align: center;
   font-family: 'Luxurious Roman', cursive;
-  font-size: 25px;
+  font-size: 20px;
   padding: 0px;
   margin-bottom: 10px;
 }
@@ -63,7 +63,7 @@ ul {
   margin: 0 auto;
   padding: 0px;
   font-family: 'Luxurious Roman', cursive;
-  font-size: 25px;
+  font-size: 15px;
   padding: 0px;
   margin-bottom: 10px;
 }
@@ -73,7 +73,7 @@ ol {
   margin: 0 auto;
   padding: 0px;
   font-family: 'Luxurious Roman', cursive;
-  font-size: 25px;
+  font-size: 15px;
   padding: 0px;
   margin-bottom: 10px;
 }
@@ -90,7 +90,7 @@ footer {
   );
   font-family: 'Luxurious Roman', cursive;
   color: white;
-  font-size: 30px;
+  font-size: 20px;
   border-radius: 50px;
   margin-bottom: 20px;
 }

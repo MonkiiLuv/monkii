@@ -1,3 +1,3 @@
 #Introduction
 
-![ScreenShot](https://raw.github.com/{MonkiiLuv}/{monkii}/{images}/{screenshot})
+![ScreenShot](https://raw.github.com/{MonkiiLuv}/{monkii}/{images}/{ScreenShot})
